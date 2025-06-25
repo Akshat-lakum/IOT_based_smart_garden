@@ -92,7 +92,7 @@ Real-time data is visualized on the Blynk app (V5 virtual pin). You can set aler
 
 - Project report: _IoT-Based Smart Garden Monitoring System_
 - Dataset / components from local hardware setup
-- [Video demo](https://www.youtube.com/watch?v=Ix3a3ThsHfA)
+- [Video demo](https://drive.google.com/file/d/1peELW-zI9w3ss6_gbSuFVyN7Lr8RqxjF/view?usp=sharing)
 
 ---
 
